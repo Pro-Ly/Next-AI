@@ -1,0 +1,5 @@
+[workspace]
+members = ["next-ai"]
+
+[workspace.package]
+license = "Apache-2.0"
